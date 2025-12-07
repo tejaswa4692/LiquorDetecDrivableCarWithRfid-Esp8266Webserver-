@@ -155,3 +155,7 @@ const char* password = "Your_WiFi_Password";
 ```
 
 Access the control panel at: `http://[ESP8266_IP_ADDRESS]` after connecting to WiFi.
+
+
+
+The default ip (that worked for me) is : http://10.134.152.19
